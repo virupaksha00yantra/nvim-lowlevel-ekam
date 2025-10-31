@@ -101,6 +101,12 @@ git clone https://github.com/virupaksha00yantra/nvim-lowlevel-ekam.git ~/.config
 
 ```
 
+- open nvim
+
+```cmd
+nvim
+```
+
 ### for Windows users
 
 - Make a backup of your current Neovim files
