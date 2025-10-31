@@ -24,7 +24,7 @@ for system level development
 
 ---
 
-> ==PLUGINS==
+> PLUGINS
 >
 > Alpha.lua
 > auto-pairs.lua
