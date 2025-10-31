@@ -67,6 +67,66 @@ for system level development
 
 ---
 
+## pre-requirement
+
+- ripgrep
+- nvim
+- nerd font (Jet Brain NL)
+- node
+- nerd icons
+- For windows user make sure you have gcc installed in your windows system
+
+---
+
+## Installation
+
+### For linux and MacOs
+
+- Move our existing config as a backup
+
+```bash
+# required
+mv ~/.config/nvim{,.bak}
+
+# optional but recommended
+mv ~/.local/share/nvim{,.bak}
+mv ~/.local/state/nvim{,.bak}
+mv ~/.cache/nvim{,.bak}
+```
+
+- close the starter
+
+```bash
+git clone https://github.com/virupaksha00yantra/nvim-lowlevel-ekam.git ~/.config/nvim
+
+```
+
+### for Windows users
+
+- Make a backup of your current Neovim files
+
+```CMD
+# required
+Move-Item $env:LOCALAPPDATA\nvim $env:LOCALAPPDATA\nvim.bak
+
+# optional but recommended
+Move-Item $env:LOCALAPPDATA\nvim-data $env:LOCALAPPDATA\nvim-data.bak
+```
+
+- Clone the starter
+
+```cmd
+git clone https://github.com/virupaksha00yantra/nvim-lowlevel-ekam.git $env:LOCALAPPDATA\nvim
+```
+
+- open nvim
+
+```cmd
+nvim
+```
+
+---
+
 ## Inspiration
 
 [Josean Martinez](https://www.youtube.com/watch?v=6pAG3BHurdM)
