@@ -26,30 +26,30 @@ for system level development
 
 > [PLUGINS]
 >
-> Alpha.lua
-> auto-pairs.lua
-> auto-session.lua
-> buffer-line.lua
-> Ever-Forest-colorscheme.lua
-> commant.lua
-> dressing.lua
-> formatting.lua
-> gitsigns.lua
-> indent-blackline.lua
-> lazygit.lua
-> linting.lua
-> lua-line.lua
-> markdown.lua
-> nvim-cmp.lua
-> nvim-tree.lua
-> substitute.lua
-> surround.lua
-> teliscope.lua
-> todo-commants.lua
-> treesitter.lua
-> trouble.lua
-> vim-maximizer.lua
-> which-key.lua
+> - Alpha.lua
+> - auto-pairs.lua
+> - auto-session.lua
+> - buffer-line.lua
+> - Ever-Forest-colorscheme.lua
+> - commant.lua
+> - dressing.lua
+> - formatting.lua
+> - gitsigns.lua
+> - indent-blackline.lua
+> - lazygit.lua
+> - linting.lua
+> - lua-line.lua
+> - markdown.lua
+> - nvim-cmp.lua
+> - nvim-tree.lua
+> - substitute.lua
+> - surround.lua
+> - teliscope.lua
+> - todo-commants.lua
+> - treesitter.lua
+> - trouble.lua
+> - vim-maximizer.lua
+> - which-key.lua
 
 ---
 
